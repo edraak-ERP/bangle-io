@@ -54,5 +54,6 @@
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "biomejs.biome"
-  }
+  },
+  "gitlab.removeSourceBranch": true
 }
